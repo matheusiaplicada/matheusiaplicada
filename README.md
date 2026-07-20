@@ -12,7 +12,6 @@
       <strong style="font-size:18px">Matheus Farah</strong><br/>
       <img src="./assets/role.svg" width="130" height="16" alt="Desenvolvedor" /><br/><br/>
       <a href="mailto:matheus.tech@iaplicada.com">matheus.tech@iaplicada.com</a><br/>
-      <a href="https://iaplicada.com">iaplicada.com</a>
     </td>
   </tr>
 </table>
