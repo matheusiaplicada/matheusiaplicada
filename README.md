@@ -1,10 +1,22 @@
 <div align="center">
-  <img src="./assets/logo.png" width="48" alt="iaplicada" />
 
-  ### Matheus Farah
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="./assets/logo.png" width="56" height="56" alt="iaplicada" />
+    </td>
+    <td width="14"></td>
+    <td width="2" bgcolor="#8FAF3C"></td>
+    <td width="16"></td>
+    <td valign="middle" align="left">
 
-  ![iaplicada](https://img.shields.io/badge/iaplicada-2E2E28?style=flat-square&labelColor=2E2E28&color=8FAF3C)
-  ![dev](https://img.shields.io/badge/dev-2E2E28?style=flat-square&labelColor=2E2E28&color=A9C23F)
+### Matheus Farah
 
-  matheus.tech@iaplicada.com
+**DEV** · [iaplicada](https://iaplicada.com)  
+[matheus.tech@iaplicada.com](mailto:matheus.tech@iaplicada.com)
+
+</td>
+  </tr>
+</table>
+
 </div>
